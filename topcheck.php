@@ -1,0 +1,12 @@
+<?php
+  if(isset($_POST['login'])){
+    header("location:login.php");
+    exit();
+  }elseif(isset($_POST['newmember'])){
+    header("location:newmemberpage.php");
+    exit();
+  }else{
+    header("location:mission6top-page.php");
+    exit();
+  }
+?>

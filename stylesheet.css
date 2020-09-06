@@ -1,0 +1,45 @@
+.header{
+  background-color: green;
+  margin:0;
+  padding:10px;
+  font-size:60pt;
+  text-align: center;
+}
+.newheader{
+  margin:0;
+  padding:10px;
+  font-size:45pt;
+  text-align: center;
+  border:1px solid black;
+}
+.loginhead{
+  background-color:orange;
+  margin:0;
+  padding:10px;
+  font-size:45pt;
+  text-align: center;
+}
+.boxlightblue{
+  margin:auto;
+  padding:3% 5%;
+  width:30%;
+  background-color:lightblue;
+}
+.main{
+  margin:0;
+  font-size:30pt;
+  padding-left:400px;
+}
+.buttonlogin{
+  display:inline-block;
+  text-align: center;
+  font-size:20pt;
+  background-color:#00ffff;
+}
+.buttonnewmember{
+  display:inline-block;
+  text-align: center;
+  font-size:20pt;
+  background-color:orange;
+  padding:400px;
+}
