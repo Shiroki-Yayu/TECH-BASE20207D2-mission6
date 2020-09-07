@@ -1,3 +1,11 @@
+.memberimformationtop{
+  margin-left:50%;
+  margin-right:10%;
+  width: 15%;
+  height: 80%;
+  float:right;
+  border:1px black solid;
+}
 .header{
   background-color: green;
   margin:0;
@@ -42,4 +50,21 @@
   font-size:20pt;
   background-color:orange;
   padding:400px;
+}
+.memberimformation{
+  width: 80%;
+  height: 80%;
+  margin-right:3%;
+  border:1px black solid;
+}
+.cf:before,
+.cf:after {
+    content: " ";
+    display: table;
+}
+.cf:after {
+    clear: both;
+}
+.cf {
+    *zoom: 1;
 }
